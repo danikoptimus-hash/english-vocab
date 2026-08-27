@@ -3782,5 +3782,38 @@
     "next_review": "2026-08-27",
     "ease": 3,
     "status": "new"
+  },
+  {
+    "word": "coincidence",
+    "translation": "совпадение",
+    "example": "what a strange coincidence",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "after a while",
+    "translation": "спустя некоторое время",
+    "example": "after a while the noise stopped",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "cellar",
+    "translation": "погреб, подвал",
+    "example": "they kept the wine in the cellar",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
   }
 ]
