@@ -3683,5 +3683,104 @@
     "next_review": "2026-08-30",
     "ease": 3,
     "status": "learning"
+  },
+  {
+    "word": "to come to life",
+    "translation": "оживать",
+    "example": "the statue slowly came to life",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "to chase",
+    "translation": "гнаться",
+    "example": "the dog chased the car down the street",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "townspeople",
+    "translation": "городские жители",
+    "example": "the townspeople gathered in the square",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "hit the road",
+    "translation": "тронуться в путь",
+    "example": "we packed the car and hit the road at dawn",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "pull over",
+    "translation": "остановиться на обочине",
+    "example": "the police told him to pull over",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "goblet",
+    "translation": "кубок, чаша",
+    "example": "a heavy silver goblet of wine",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "wire",
+    "translation": "провод",
+    "example": "a loose wire behind the wall",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "electric shock",
+    "translation": "удар током",
+    "example": "he got an electric shock from the socket",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "to lose consciousness",
+    "translation": "терять сознание",
+    "example": "she lost consciousness for a few seconds",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
   }
 ]
