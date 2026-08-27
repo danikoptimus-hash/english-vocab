@@ -3507,5 +3507,60 @@
     "next_review": "2026-09-02",
     "ease": 3,
     "status": "learning"
+  },
+  {
+    "word": "wicked",
+    "translation": "нечестивый, злой",
+    "example": "the counsel of the wicked",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "scoffer",
+    "translation": "насмешник, глумливый",
+    "example": "the seat of scoffers",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "prosper",
+    "translation": "преуспевать, процветать",
+    "example": "In all that he does, he prospers",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "chaff",
+    "translation": "мякина, шелуха (от зерна)",
+    "example": "like chaff that the wind drives away",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "wind",
+    "translation": "ветер",
+    "example": "chaff that the wind drives away",
+    "added": "2026-08-27",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-27",
+    "ease": 3,
+    "status": "new"
   }
 ]
