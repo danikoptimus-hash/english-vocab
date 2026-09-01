@@ -3936,5 +3936,49 @@
     "next_review": "2026-08-31",
     "ease": 3,
     "status": "new"
+  },
+  {
+    "word": "curve",
+    "translation": "кривая, изгиб",
+    "example": "the road follows a wide curve",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "intimidating",
+    "translation": "пугающий, устрашающий",
+    "example": "his silence was intimidating",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "sufficiency",
+    "translation": "достаточность",
+    "example": "they questioned the sufficiency of the evidence",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "jumble",
+    "translation": "беспорядок, мешанина",
+    "example": "a jumble of old books on the floor",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
   }
 ]
