@@ -3859,5 +3859,82 @@
     "next_review": "2026-09-03",
     "ease": 3,
     "status": "learning"
+  },
+  {
+    "word": "roughly",
+    "translation": "примерно, приблизительно",
+    "example": "the trip takes roughly two hours",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "assume",
+    "translation": "предполагать, допускать",
+    "example": "I assume you have already read it",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "recite",
+    "translation": "декламировать, читать наизусть",
+    "example": "he could recite the whole poem",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "undeniable",
+    "translation": "неоспоримый",
+    "example": "the evidence was undeniable",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "flawless",
+    "translation": "безупречный",
+    "example": "a flawless performance",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "credential",
+    "translation": "удостоверение, документ о квалификации",
+    "example": "she showed her press credentials",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "suppress",
+    "translation": "подавлять",
+    "example": "he tried to suppress a smile",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
   }
 ]
