@@ -3980,5 +3980,49 @@
     "next_review": "2026-08-31",
     "ease": 3,
     "status": "new"
+  },
+  {
+    "word": "offspring",
+    "translation": "потомство",
+    "example": "the animal protects its offspring",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "livestock",
+    "translation": "скот",
+    "example": "the famine killed most of their livestock",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "garment",
+    "translation": "предмет одежды, одеяние",
+    "example": "she folded the linen garment carefully",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "shield",
+    "translation": "щит; заслонять",
+    "example": "he raised his shield against the blow",
+    "added": "2026-08-31",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-08-31",
+    "ease": 3,
+    "status": "new"
   }
 ]
