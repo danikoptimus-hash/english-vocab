@@ -4288,5 +4288,82 @@
     "next_review": "2026-09-08",
     "ease": 3,
     "status": "learning"
+  },
+  {
+    "word": "grain",
+    "translation": "зерно",
+    "example": "the barns were full of grain",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "groan",
+    "translation": "стонать; стон",
+    "example": "the wounded man groaned in the dark",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "flatter",
+    "translation": "льстить (сущ. flatterer — льстец)",
+    "example": "he flattered the king to stay alive",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "abundance",
+    "translation": "изобилие, обилие",
+    "example": "seven years of abundance before the famine",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "cast out",
+    "translation": "изгонять (cast - cast - cast)",
+    "example": "they cast the stranger out of the city",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "transgression",
+    "translation": "прегрешение, проступок",
+    "example": "he confessed every transgression",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "exult",
+    "translation": "ликовать, торжествовать",
+    "example": "the crowd exulted when the gates opened",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
   }
 ]
