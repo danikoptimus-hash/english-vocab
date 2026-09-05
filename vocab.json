@@ -4365,5 +4365,93 @@
     "next_review": "2026-09-05",
     "ease": 3,
     "status": "new"
+  },
+  {
+    "word": "wages",
+    "translation": "заработная плата (всегда мн. ч.)",
+    "example": "he collected his wages on Friday",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "tenderly",
+    "translation": "нежно",
+    "example": "she touched his hand tenderly",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "defile",
+    "translation": "осквернять",
+    "example": "they defiled the temple",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "pillar",
+    "translation": "столб, колонна",
+    "example": "a pillar of smoke rose over the camp",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "rebuke",
+    "translation": "упрёк, выговор; упрекать, отчитывать",
+    "example": "he accepted the rebuke in silence",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "languish",
+    "translation": "томиться, изнемогать, чахнуть",
+    "example": "I am languishing; heal me, O Lord",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "steadfast",
+    "translation": "непоколебимый, стойкий",
+    "example": "his steadfast love endures forever",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "plea",
+    "translation": "просьба, мольба",
+    "example": "the Lord has heard my plea",
+    "added": "2026-09-05",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-05",
+    "ease": 3,
+    "status": "new"
   }
 ]
