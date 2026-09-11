@@ -4695,5 +4695,115 @@
     "next_review": "2026-09-13",
     "ease": 3,
     "status": "learning"
+  },
+  {
+    "word": "feast",
+    "translation": "праздник; пир, застолье",
+    "example": "The whole village came to the wedding feast and stayed until morning.",
+    "added": "2026-09-11",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-11",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "leaven",
+    "translation": "закваска, дрожжи; заквашивать",
+    "example": "Remove every crumb of leaven from the house before the festival begins.",
+    "added": "2026-09-11",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-11",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "assembly",
+    "translation": "собрание, сход",
+    "example": "The assembly voted by show of hands, and the motion passed easily.",
+    "added": "2026-09-11",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-11",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "basin",
+    "translation": "таз, чаша (сосуд)",
+    "example": "She poured the warm water into a shallow basin and washed his feet.",
+    "added": "2026-09-11",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-11",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "womb",
+    "translation": "утроба, чрево (буква b не читается)",
+    "example": "The scan showed twins in the womb at just nine weeks.",
+    "added": "2026-09-11",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-11",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "encamp",
+    "translation": "располагаться лагерем",
+    "example": "The army encamped by the river and waited three days for orders.",
+    "added": "2026-09-11",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-11",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "pursue",
+    "translation": "преследовать, гнаться; добиваться",
+    "example": "Two patrol cars pursued the van for eleven kilometres before it stopped.",
+    "added": "2026-09-11",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-11",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "flee",
+    "translation": "бежать, спасаться бегством (flee - fled - fled)",
+    "example": "Thousands fled the city overnight, carrying only what they could hold.",
+    "added": "2026-09-11",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-11",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "quail",
+    "translation": "перепел; дрогнуть, струсить",
+    "example": "Flocks of quail landed around the camp, and nobody went hungry that night.",
+    "added": "2026-09-11",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-11",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "commit adultery",
+    "translation": "прелюбодействовать, изменять супругу",
+    "example": "He was accused of committing adultery and lost custody of the children.",
+    "added": "2026-09-11",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-11",
+    "ease": 3,
+    "status": "new"
   }
 ]
