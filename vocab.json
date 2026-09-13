@@ -4849,5 +4849,38 @@
     "next_review": "2026-09-13",
     "ease": 3,
     "status": "new"
+  },
+  {
+    "word": "anointing",
+    "translation": "помазание (обряд)",
+    "example": "The anointing with oil marked him as king before the whole assembly.",
+    "added": "2026-09-13",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-13",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "the golden calf",
+    "translation": "золотой телец",
+    "example": "While their leader was away, the people melted their jewellery into a golden calf.",
+    "added": "2026-09-13",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-13",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "intercession",
+    "translation": "заступничество, ходатайство",
+    "example": "Her intercession with the governor saved three men from execution.",
+    "added": "2026-09-13",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-13",
+    "ease": 3,
+    "status": "new"
   }
 ]
