@@ -4805,5 +4805,49 @@
     "next_review": "2026-09-11",
     "ease": 3,
     "status": "new"
+  },
+  {
+    "word": "tabernacle",
+    "translation": "скиния, шатёр собрания",
+    "example": "The tabernacle was a portable tent that could be taken down in an hour.",
+    "added": "2026-09-13",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-13",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "court",
+    "translation": "двор (огороженный); суд; корт",
+    "example": "A linen curtain enclosed the court where the altar stood.",
+    "added": "2026-09-13",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-13",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "consecration",
+    "translation": "освящение, посвящение",
+    "example": "The consecration of the new priest took seven full days.",
+    "added": "2026-09-13",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-13",
+    "ease": 3,
+    "status": "new"
+  },
+  {
+    "word": "incense",
+    "translation": "благовония, фимиам",
+    "example": "Sweet incense burned on the small altar every morning and evening.",
+    "added": "2026-09-13",
+    "seen_count": 0,
+    "last_seen": null,
+    "next_review": "2026-09-13",
+    "ease": 3,
+    "status": "new"
   }
 ]
