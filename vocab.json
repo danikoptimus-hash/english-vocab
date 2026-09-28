@@ -466,10 +466,10 @@
     "translation": "очевидный",
     "example": "The damage was not apparent from the street; you had to go round the back.",
     "added": "2026-08-26",
-    "seen_count": 5,
+    "seen_count": 4,
     "last_seen": "2026-09-28",
-    "next_review": "2026-12-27",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -2413,10 +2413,10 @@
     "translation": "сбрасывать",
     "example": "Deer shed their antlers every winter and grow a new pair by summer.",
     "added": "2026-08-26",
-    "seen_count": 5,
+    "seen_count": 4,
     "last_seen": "2026-09-28",
-    "next_review": "2026-12-27",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -2633,10 +2633,10 @@
     "translation": "замаскированный",
     "example": "The fee was disguised as a \"service charge\" on the second page.",
     "added": "2026-08-26",
-    "seen_count": 5,
+    "seen_count": 4,
     "last_seen": "2026-09-28",
-    "next_review": "2026-12-27",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -3007,10 +3007,10 @@
     "translation": "прогнать",
     "example": "Raising the rent twice in one year drove away every tenant in the building.",
     "added": "2026-08-26",
-    "seen_count": 4,
+    "seen_count": 3,
     "last_seen": "2026-09-28",
-    "next_review": "2026-11-02",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -3139,10 +3139,10 @@
     "translation": "печь",
     "example": "The furnace in the basement has heated this house since 1958.",
     "added": "2026-08-26",
-    "seen_count": 4,
+    "seen_count": 3,
     "last_seen": "2026-09-28",
-    "next_review": "2026-11-02",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -3502,10 +3502,10 @@
     "translation": "луч",
     "example": "The first ray of sun hit the far wall at about six and moved slowly left.",
     "added": "2026-08-26",
-    "seen_count": 4,
+    "seen_count": 3,
     "last_seen": "2026-09-28",
-    "next_review": "2026-11-02",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -3601,9 +3601,9 @@
     "translation": "верёвка, шнур",
     "example": "The lamp would not reach the socket, so he ran an extension cord along the skirting board.",
     "added": "2026-08-27",
-    "seen_count": 4,
+    "seen_count": 3,
     "last_seen": "2026-09-28",
-    "next_review": "2026-11-02",
+    "next_review": "2026-09-29",
     "ease": 1,
     "status": "learning"
   },
@@ -3733,10 +3733,10 @@
     "translation": "остановиться на обочине",
     "example": "If you feel sleepy, pull over and sleep twenty minutes; it is faster than crashing.",
     "added": "2026-08-27",
-    "seen_count": 5,
+    "seen_count": 4,
     "last_seen": "2026-09-28",
-    "next_review": "2026-12-27",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -3755,10 +3755,10 @@
     "translation": "провод",
     "example": "A fox had chewed through the wire, and the whole greenhouse lost power.",
     "added": "2026-08-27",
-    "seen_count": 5,
+    "seen_count": 4,
     "last_seen": "2026-09-28",
-    "next_review": "2026-12-27",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -3909,10 +3909,10 @@
     "translation": "безупречный",
     "example": "The landing was flawless — the passengers did not even feel the wheels touch.",
     "added": "2026-08-31",
-    "seen_count": 4,
+    "seen_count": 3,
     "last_seen": "2026-09-28",
-    "next_review": "2026-11-02",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -3953,9 +3953,9 @@
     "translation": "пугающий, устрашающий",
     "example": "The interviewer said nothing for eight seconds, which was more intimidating than any question.",
     "added": "2026-08-31",
-    "seen_count": 4,
+    "seen_count": 3,
     "last_seen": "2026-09-28",
-    "next_review": "2026-11-02",
+    "next_review": "2026-09-29",
     "ease": 1,
     "status": "learning"
   },
@@ -4151,10 +4151,10 @@
     "translation": "в ярости (сильнее, чем angry)",
     "example": "He was furious in a way that showed only in how quietly he spoke.",
     "added": "2026-09-04",
-    "seen_count": 4,
+    "seen_count": 3,
     "last_seen": "2026-09-28",
-    "next_review": "2026-11-02",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -4316,10 +4316,10 @@
     "translation": "льстить (сущ. flatterer — льстец)",
     "example": "Do not flatter me — tell me what is actually wrong with the draft.",
     "added": "2026-09-05",
-    "seen_count": 4,
+    "seen_count": 3,
     "last_seen": "2026-09-28",
-    "next_review": "2026-11-02",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -4338,10 +4338,10 @@
     "translation": "изгонять (cast - cast - cast)",
     "example": "In the old law a man who touched a corpse was cast out of the camp for seven days.",
     "added": "2026-09-05",
-    "seen_count": 4,
+    "seen_count": 3,
     "last_seen": "2026-09-28",
-    "next_review": "2026-11-02",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -4415,10 +4415,10 @@
     "translation": "упрёк, выговор; упрекать, отчитывать",
     "example": "The committee issued a public rebuke and stopped short of dismissing him.",
     "added": "2026-09-05",
-    "seen_count": 4,
+    "seen_count": 3,
     "last_seen": "2026-09-28",
-    "next_review": "2026-11-02",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
@@ -4426,10 +4426,10 @@
     "translation": "томиться, изнемогать, чахнуть",
     "example": "Her paintings languished in a cellar for thirty years before a dealer found them.",
     "added": "2026-09-05",
-    "seen_count": 4,
+    "seen_count": 3,
     "last_seen": "2026-09-28",
-    "next_review": "2026-11-02",
-    "ease": 2,
+    "next_review": "2026-09-29",
+    "ease": 1,
     "status": "learning"
   },
   {
